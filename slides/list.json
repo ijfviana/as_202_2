@@ -1,0 +1,163 @@
+[
+
+    {
+        "filename": "index.md",
+        "attr": {
+            "data-background": "img/covert.png",
+            "class": "home",
+            "data-state": "homepage"
+        }
+    },
+    {
+        "filename": "outline.md",
+        "attr": {}
+    },
+    [
+    	{
+        	"filename": "introduction.md",
+        	"attr": {
+        		"data-state": "big-title",
+            	"data-transition":"zoom"
+            	}
+        },
+        {
+        	"filename": "introduction_contents.md",
+        	"attr": {
+	            "data-separator": "^\n\n\n",
+	            "data-vertical": "^\n\n"
+	        }
+        }
+    ],
+    [
+	    {
+	        "filename": "exploring_boot_process.md",
+	        "attr": {
+	            "data-state": "big-title",
+	            "data-transition":"zoom"
+	        }
+	    },
+	    {
+	        "filename": "exploring_boot_process_contents.md",
+	        "attr": {
+	            "data-separator": "^\n\n\n",
+	            "data-vertical": "^\n\n"
+	        }
+	    }
+    ],
+
+
+    [
+	    {
+	        "filename": "grub1.md",
+	        "attr": {
+	            "data-state": "big-title",
+	            "data-transition":"zoom"
+	        }
+	    },
+	    {
+	        "filename": "grub1_contents.md",
+	        "attr": {
+	            "data-separator": "^\n\n\n",
+	            "data-vertical": "^\n\n"
+	        }
+	    }
+    ],
+
+    [
+	    {
+	        "filename": "grub2.md",
+	        "attr": {
+	            "data-state": "big-title",
+	            "data-transition":"zoom"
+	        }
+	    },
+	    {
+	        "filename": "grub2_contents.md",
+	        "attr": {
+	            "data-separator": "^\n\n\n",
+	            "data-vertical": "^\n\n"
+	        }
+	    }
+
+    ],
+
+
+    [
+      {
+          "filename": "installing_grub_boot_loader.md",
+          "attr": {
+              "data-state": "big-title",
+              "data-transition":"zoom"
+          }
+      },
+      {
+          "filename": "installing_grub_boot_loader_contents.md",
+          "attr": {
+              "data-separator": "^\n\n\n",
+              "data-vertical": "^\n\n"
+          }
+      }
+
+    ],
+
+
+
+  [
+      {
+          "filename": "interacting_grub_boot_time.md",
+          "attr": {
+              "data-state": "big-title",
+              "data-transition":"zoom"
+          }
+      },
+      {
+          "filename": "interacting_grub_boot_time_contents.md",
+          "attr": {
+              "data-separator": "^\n\n\n",
+              "data-vertical": "^\n\n"
+          }
+      }
+
+    ],
+
+
+  [
+      {
+          "filename": "uefi.md",
+          "attr": {
+              "data-state": "big-title",
+              "data-transition":"zoom"
+          }
+      },
+      {
+          "filename": "uefi_contents.md",
+          "attr": {
+              "data-separator": "^\n\n\n",
+              "data-vertical": "^\n\n"
+          }
+      }
+
+    ],
+
+   {
+        "filename": "bibliography.md",
+        "attr": {
+            "data-state":"biblio",
+            "class":"alternatelight",
+           "data-separator": "^\n\n\n",
+            "data-vertical": "^\n\n"
+
+        }
+    },
+
+    {
+        "filename": "end.md",
+        "attr": {
+            "data-state":"thanks",
+            "class":"alternatelight",
+           "data-separator": "^\n\n\n",
+            "data-vertical": "^\n\n"
+
+        }
+    }
+]
